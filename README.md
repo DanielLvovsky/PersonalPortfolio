@@ -1,4 +1,4 @@
-**[antfu.me](https://antfu.me)**
+**[daniellvovsky.com](https://daniellvovsky.com)**
 
 my personal website powered by [Vite](https://vitejs.dev/)
 
